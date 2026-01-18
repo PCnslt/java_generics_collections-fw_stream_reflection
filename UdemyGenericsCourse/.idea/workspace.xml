@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e661e9e9-ee50-4984-a73e-1d86c1bce670" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pcnslt/GenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pcnslt/GenericClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pcnslt/GenericsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pcnslt/GenericsApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcnslt/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcnslt/GenericClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pcnslt/GenericsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcnslt/GenericsApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pcnslt/Hashtable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pcnslt/Hashtable.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
