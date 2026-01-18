@@ -23,6 +23,9 @@ public class GenericsApp {
         GenericClass gc = new GenericClass();
         gc.show(hashtable.getValue(),"Just testing");
 
-
+        //Java generics doesn't support primitive types.
+        //It only supports reference types.
+        String[] names = {"James", "Anna", "Bruce"};
+        gc.printArrayOfItems(names);
     }
 }
