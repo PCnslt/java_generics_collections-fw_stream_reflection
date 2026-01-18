@@ -1,0 +1,8 @@
+# Ignore all hidden files and folders at the root
+/.*
+
+# Ignore all hidden files and folders in all subdirectories recursively
+**/.*
+
+# Optional: Ensure the .gitignore file itself is NOT ignored
+!/.gitignore
