@@ -1,5 +1,10 @@
 package com.pcnslt;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
 public class Hashtable <K, V, E>{
 
     private K key;

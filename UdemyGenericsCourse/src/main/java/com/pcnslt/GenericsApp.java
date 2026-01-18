@@ -16,9 +16,12 @@ public class GenericsApp {
 //        System.out.println("This is the item: " + item);
 //
 
-//        //Multiple Types in generic
-//        Hashtable<String, Integer, Double> hashtable = new Hashtable<>("apple", 23);
-//        System.out.println(hashtable);
+        //Multiple Types in generic
+        Hashtable<String, Integer, Double> hashtable = new Hashtable<>("apple", 23);
+        System.out.println(hashtable);
+
+        GenericClass gc = new GenericClass();
+        gc.show(hashtable.getValue(),"Just testing");
 
 
     }
