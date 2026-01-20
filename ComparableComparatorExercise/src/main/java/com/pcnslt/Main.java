@@ -57,5 +57,7 @@ public class Main {
                 .thenComparing(Person::getAge));
         System.out.println("=".repeat(20));
         people.forEach(System.out::println);
+
+
     }
 }
